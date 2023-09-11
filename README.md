@@ -17,7 +17,7 @@ To write a program to implement the simple linear regression model for predictin
 
 
 ## Program:
-```
+```python
 '''
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: NITHISHWAR S
